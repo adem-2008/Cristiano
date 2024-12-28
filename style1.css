@@ -1,0 +1,67 @@
+*{
+    background-color: beige;
+} 
+ .logo{
+    width: 250px;
+    height: 250px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.name{
+    color:rgb(0, 0, 0);
+    font-size: xxx-large;
+    text-align: center;
+    font-family:cursive ;
+    margin-left: 350px;
+    margin-top: -200px;
+    font-style: italic;
+}
+.dates{
+    color: rgb(0, 0, 0);
+    margin-left:400px ;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size:xx-large;
+    margin-top: -40px;
+    margin-right: 80px;
+}
+.gras{
+    margin-left: 220px;
+    font-size: xxx-large;
+}
+
+.paragraphe{
+    text-align: justify;
+    text-shadow: black;
+    font-size: x-large;
+    font-style: oblique;
+    font-family: cursive;
+    margin-left: 190px;
+    
+    
+}
+.gras1{
+    margin-left: 220px;
+    font-size: xxx-large;
+}
+.Biographies{
+    text-align: 200px;
+    text-shadow: black;
+    font-size: x-large;
+    font-style: oblique;
+    font-family: cursive;
+    margin-left: 180px;
+   
+    
+}
+.bas{
+    
+    margin: 50px 0;
+    text-align: end;
+    
+}
+  
+
+
+  
